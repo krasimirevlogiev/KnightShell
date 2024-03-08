@@ -6,8 +6,6 @@ use dirs;
 
 
 
-
-
 fn init_shell(){
     #[cfg(unix)]
     Command::new("clear").status().unwrap();
