@@ -1,4 +1,4 @@
 # KnightShell
 
 Welcome to K-Shell!
-![Home Screen](assets/home_screen)
+![](assets/home_screen.png)
